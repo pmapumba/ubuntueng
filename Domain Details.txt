@@ -1,0 +1,11 @@
+Domain: ubuntuengineering.com
+Username: labanofficial@gmail.com
+Password: k]o2H53Yi7Dg#G
+Hosting Package: Lite Package
+Server IP: 50.28.40.254
+Server Name: Atlas.namhost.com
+Nameserver 1: ns1.atlas.namhost.com
+Nameserver 2: ns2.atlas.namhost.com
+FTP Hostname: ftp.ubuntuengineering.com
+Webpage URL: https://www.ubuntuengineering.com
+Control Panel: https://atlas.namhost.com/siteworx
